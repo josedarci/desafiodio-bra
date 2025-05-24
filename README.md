@@ -1,6 +1,3 @@
-Claro! Abaixo está um modelo de conteúdo que você pode usar no arquivo `README.md` do seu repositório no GitHub para esse desafio da DIO, com um tom profissional e estruturado:
-
----
 
 # Desafio: Criação de Máquina Virtual no Microsoft Azure 🌐
 
